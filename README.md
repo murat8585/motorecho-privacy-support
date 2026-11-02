@@ -1,7 +1,7 @@
-# MotorEcho privacy and support
+# MotorEcho support
 
-Official privacy, support and data rights information for MotorEcho.
+Public Turkish and English support/contact pages for MotorEcho, published on GitHub Pages from main (root).
 
-Status: preparation in progress. Privacy and support pages will be published only after the required facts are verified and the final content is approved by the owner. GitHub Pages is currently disabled.
+App privacy and data-rights policies remain private drafts pending factual release verification and final owner approval. This support website is not an approved app privacy policy.
 
-MotorEcho için gizlilik, destek ve veri hakları sitesinin hazırlığı sürüyor. Sayfalar, gerekli bilgiler doğrulanıp nihai içerik sahibi tarafından onaylandıktan sonra yayımlanacaktır. GitHub Pages şu anda etkin değildir.
+MotorEcho için Türkçe ve İngilizce destek/iletişim sayfaları. Gizlilik ve veri hakları metinleri, gerçek sürüm kapsamı doğrulanıp nihai onay verilene kadar özel taslaktır.
